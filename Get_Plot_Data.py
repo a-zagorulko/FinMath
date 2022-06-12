@@ -1,6 +1,6 @@
 """
 Get_Plot_Data.py
-Author: Alexey Zagorulko
+Author: a-zagorulko
 Date: 09.06.2022
 Goal: Answer questions on how to get, organise and analyze stock data
 

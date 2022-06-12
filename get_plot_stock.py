@@ -1,6 +1,6 @@
 """
 get_plot_stock.py
-Author: Alexey Zagorulko
+Author: a-zagorulko
 Date: 09.06.2022
 
 Function to GET and PLOT stock data from Yahoo

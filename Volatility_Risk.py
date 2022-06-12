@@ -1,6 +1,6 @@
 """
 Volatility_Risk.py
-Author: Alexey Zagorulko
+Author: a-zagorulko
 Date: 11.06.2022
 
 Goal: Answer questions regarding how volatility of stocks is measured

@@ -1,6 +1,6 @@
 """
 Norm_Dist_Stocks.py
-Author: Alexey Zagorulko
+Author: a-zagorulko
 Date: 08.06.2022
 
 Goal: Answer questions regarding how to statistically view stock data and returns
